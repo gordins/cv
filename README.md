@@ -85,6 +85,15 @@ _Sep 2017 - Feb 2020 (2 years 6 months)_ - **HR Software**
 
 ---
 
+### Co-Founder
+
+<img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/reservedapp_logo.jpeg" alt="Reserved Logo" width="30" height="30" style="vertical-align:middle;"> **Reserved**
+_Mar 2018 - Jul 2018 (5 months)_ - **Startup**
+
+- Was part of a 4-person team that built a startup for fast online restaurant table reservations. Our most significant achievement was our participation in the Innovation Labs startups competition, where we reached the semifinals held in Bucharest in May 2018
+
+---
+
 ### Teaching Assistant
 
 <img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/uaic_logo.jpeg" alt="Alexandru Ioan Cuza University Logo" width="30" height="30" style="vertical-align:middle;"> **"Alexandru Ioan Cuza" University, Iași**
