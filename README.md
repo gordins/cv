@@ -94,6 +94,17 @@ _Mar 2018 - Jul 2018 (5 months)_ - **Startup**
 
 ---
 
+### Intern
+
+<img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/continental_logo.jpeg" alt="Reserved Logo" width="30" height="30" style="vertical-align:middle;"> **Continental**
+_Jul 2016 - Sept 2018 (3 months)_ - **Internship**
+
+- Developed a secure communication protocol between embedded or simulated devices.
+  Designed and created a library for big-number arithmetic operations deployed on embedded devices.
+  Worked mainly with ANSI C.
+
+---
+
 ### Teaching Assistant
 
 <img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/uaic_logo.jpeg" alt="Alexandru Ioan Cuza University Logo" width="30" height="30" style="vertical-align:middle;"> **"Alexandru Ioan Cuza" University, Iași**
