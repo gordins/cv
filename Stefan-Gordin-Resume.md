@@ -1,4 +1,4 @@
-# <img src="https://media.licdn.com/dms/image/v2/D4D03AQF7rJO29nj2WA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707845316620?e=1738195200&v=beta&t=5DiGFbv1J6CE9doL8pfZWuEzFSXW5dtTTVDNSLmCi34" alt="Profile Photo" width="50" height="50" style="border-radius:50%; vertical-align:middle;"> Ștefan Gordîn
+# <img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/profile.jpeg" alt="Profile Photo" width="50" height="50" style="border-radius:50%; vertical-align:middle;"> Ștefan Gordîn
 
 - **Location:** Iași, Romania
 - **Email:** gordinstefan@gmail.com
@@ -16,7 +16,7 @@
 
 ### Software Engineer
 
-<img src="https://media.licdn.com/dms/image/v2/C560BAQGuChdZnKfqNg/company-logo_200_200/company-logo_200_200/0/1631421320340/clipboard_health_logo?e=1741219200&v=beta&t=dX4d1xdDm7s1ve8ezuxqGfrGRDsPu4yeSgAev1a1cZo" alt="Clipboard Health Logo" width="30" height="30" style="vertical-align:middle;"> **Clipboard Health**
+<img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/clipboard_health_logo.jpeg" alt="Clipboard Health Logo" width="30" height="30" style="vertical-align:middle;"> **Clipboard Health**
 _Feb 2024 - Nov 2024 (10 months)_ - **Timekeeping and Payments**
 
 - Designed and implemented scalable, well-tested, full-stack solutions for multiple web applications.
@@ -28,7 +28,7 @@ _Feb 2024 - Nov 2024 (10 months)_ - **Timekeeping and Payments**
 
 ### Software Engineer
 
-<img src="https://media.licdn.com/dms/image/v2/D4D0BAQF6uXvvvfP29A/company-logo_200_200/company-logo_200_200/0/1725347953904/bolt_eu_logo?e=1741219200&v=beta&t=Xz5Yk6gTWeah5VPpdOVHf4IiBrZi_6fiElRIPZa6Qjo" alt="Bolt Logo" width="30" height="30" style="vertical-align:middle;"> **Bolt**
+<img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/bolt_logo.jpeg" alt="Bolt Logo" width="30" height="30" style="vertical-align:middle;"> **Bolt**
 _Feb 2022 - Nov 2023 (1 year 10 months)_ - **Bolt Food - Food Delivery**
 
 #### Timing Team:
@@ -48,7 +48,7 @@ _Feb 2022 - Nov 2023 (1 year 10 months)_ - **Bolt Food - Food Delivery**
 
 ### Senior Software Engineer
 
-<img src="https://media.licdn.com/dms/image/v2/C4D0BAQHneCFNW5-qJw/company-logo_200_200/company-logo_200_200/0/1653387910016/ness_ses_logo?e=1741219200&v=beta&t=ikvIDBvG_I8eAiiDknXaL2jrkL5IOPxnlm701WvVnD8" alt="Ness Digital Engineering Logo" width="30" height="30" style="vertical-align:middle;"> **Ness Digital Engineering**
+<img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/ness_logo.jpeg" alt="Ness Digital Engineering Logo" width="30" height="30" style="vertical-align:middle;"> **Ness Digital Engineering**
 _Nov 2020 - Feb 2022 (1 year 4 months)_ - **Transportation Intelligence Solutions**
 
 - Worked in Scrum teams in an Agile environment.
@@ -61,7 +61,7 @@ _Nov 2020 - Feb 2022 (1 year 4 months)_ - **Transportation Intelligence Solution
 
 ### Software Engineer
 
-<img src="https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_200_200/company-logo_200_200/0/1630640869849/amazon_logo?e=1741219200&v=beta&t=23G9MxhR6vVFzRiOajmsQEvEiDgfxNthT9KAQBAr7FI" alt="Amazon Logo" width="30" height="30" style="vertical-align:middle;"> **Amazon**
+<img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/amazon_logo.jpeg" alt="Amazon Logo" width="30" height="30" style="vertical-align:middle;"> **Amazon**
 _Feb 2020 - Nov 2020 (10 months)_ - **Software Solutions for Static Media in Marketing Campaigns**
 
 - Implemented image processing algorithms and server-side rendering for promotional media.
@@ -74,7 +74,7 @@ _Feb 2020 - Nov 2020 (10 months)_ - **Software Solutions for Static Media in Mar
 
 ### Software Engineer
 
-<img src="https://media.licdn.com/dms/image/v2/C4D0BAQFFiIta0EFzCw/company-logo_200_200/company-logo_200_200/0/1635757121830/centric_logo?e=1741219200&v=beta&t=lHpNQZaRRKQvGEAwWaWMMB2nc67BXb8JGWtp1mfzS0U" alt="Centric Logo" width="30" height="30" style="vertical-align:middle;"> **Centric**
+<img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/centric_logo.jpeg" alt="Centric Logo" width="30" height="30" style="vertical-align:middle;"> **Centric**
 _Sep 2017 - Feb 2020 (2 years 6 months)_ - **HR Software**
 
 - Developed full-stack features in a multi-tenant SaaS project.
@@ -87,14 +87,14 @@ _Sep 2017 - Feb 2020 (2 years 6 months)_ - **HR Software**
 
 ### Teaching Assistant
 
-<img src="https://media.licdn.com/dms/image/v2/C510BAQH7piuGzWOz0Q/company-logo_200_200/company-logo_200_200/0/1631323132367?e=1741219200&v=beta&t=DQ66-oeSmDVHz4iisHVuV1mtBvimm6PWqqqdJ-mFF-M" alt="Alexandru Ioan Cuza University Logo" width="30" height="30" style="vertical-align:middle;"> **"Alexandru Ioan Cuza" University, Iași**
+<img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/uaic_logo.jpeg" alt="Alexandru Ioan Cuza University Logo" width="30" height="30" style="vertical-align:middle;"> **"Alexandru Ioan Cuza" University, Iași**
 _Feb 2022 - Jun 2023 (1 year 5 months)_
 
 - Taught Web Technologies to second-year Computer Science students.
 
 ## Education
 
-### <img src="https://media.licdn.com/dms/image/v2/C510BAQH7piuGzWOz0Q/company-logo_200_200/company-logo_200_200/0/1631323132367?e=1741219200&v=beta&t=DQ66-oeSmDVHz4iisHVuV1mtBvimm6PWqqqdJ-mFF-M" alt="University Logo" width="30" height="30" style="vertical-align:middle;"> "Alexandru Ioan Cuza" University, Iași
+### <img src="https://raw.githubusercontent.com/gordins/cv/refs/heads/main/uaic_logo.jpeg" alt="University Logo" width="30" height="30" style="vertical-align:middle;"> "Alexandru Ioan Cuza" University, Iași
 
 **Master's Degree, Software Systems Engineering**
 _2017 - 2021_
